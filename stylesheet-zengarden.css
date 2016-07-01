@@ -1,0 +1,134 @@
+html {
+	margin: 100px;
+	padding: 100px;
+	}
+body { 
+
+	font-family: 'Raleway', sans-serif;
+	line-height: 1.88889;
+	color: #555753; 
+	background: #F5DDD5 no-repeat bottom right; 
+	margin: auto;
+	margin-top: -10%;
+	margin-bottom: 10%; 
+	padding: 50;
+	}
+p { 
+	margin-top: 0px;
+	margin-bottom: 0;
+	margin-left: 15%;
+	margin-right: 15%; 
+	text-align: justify;
+	}
+	
+h1{
+	text-align: center;
+	letter-spacing: 3px; 
+	font-weight: 700;
+	font-size: 40px;
+
+	}
+h2{
+	margin-left: 10px;
+}
+.summary{
+	/*background-color: #F7EEEB;*/
+	width: 135%;
+	position: relative;
+	margin-left: -177px;
+	padding: -15%;
+	margin-right: 47.5%;
+
+}	
+h3 { 
+	
+	letter-spacing: 5px; 
+	margin-bottom: 0; 
+	color: #7D775C;
+	text-align: center;
+	}
+
+	header h1 { 
+	margin-top: 0px;
+	display: block;
+	white-space: nowrap;
+	overflow: hidden;
+	}
+
+.preamble {
+	
+	/*background-color:#DBF8F6;*/
+	/*padding-right: 500px;*/
+	margin-left: -5%;
+	margin-right: 47.5%;
+	margin-top: 0%;
+	position: absolute;
+
+
+	}	
+
+.explanation{
+	/*background-color:#DBF8F6;*/
+	/*padding-right: 500px;*/
+	margin-left: 35%;
+	margin-right: 10%;
+	margin-top: 0%;
+	position: absolute;
+}
+.participation{
+	margin-left: -5%;
+	margin-right: 47.5%;
+	margin-top: 37.5%;
+	position: absolute;
+
+}
+
+.benefits{
+	margin-left: -5%;
+	margin-right: 47.5%;
+	margin-top: 85%;
+	position: absolute;
+
+}
+
+.requirements{
+	margin-left: 35%;
+	margin-right: 10%;
+	margin-top: 37.5%;
+	position: absolute;
+
+}
+
+.design-selection{
+	margin-top: 200px;
+	position: absolute;
+	margin-top: 20%;
+}	
+
+.design-archives{
+	margin-left:30%; 
+	margin-top: 200px;
+	position: absolute;
+	margin-top: 20%;
+
+}	
+.zen-resources{
+	margin-left: 50%;
+	margin-top: 200px;
+	position: absolute;
+	margin-top: 20%;
+}
+a{
+	color:currentColor;
+	margin-top: 100%;
+}
+
+footer{
+	margin-top: 150%;	
+	margin-left: 2%;
+	font-weight: 400;
+	font-size: 18px;
+	color:#7D775C;
+}
+
+
